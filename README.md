@@ -8,7 +8,7 @@ The Random Password Generator is a lightweight JavaScript application designed t
 
 ## 📸 Screenshot
 
-![Random Password Generator Screenshot](screenshot.png)
+![Random Password Generator Screenshot](Screenshot.png)
 
 
 ## Getting Started
