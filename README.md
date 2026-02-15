@@ -6,6 +6,11 @@ A simple and intuitive web application that generates secure random passwords wi
 
 The Random Password Generator is a lightweight JavaScript application designed to help users create strong, random passwords quickly and easily. The generator produces 14-character passwords containing a mix of numbers, uppercase letters, and special characters (!@#$%^&*()), ensuring robust security. With a single click of the "Generate Password" button, users get a new random password. The application also includes a convenient copy-to-clipboard feature that notifies users when the password has been successfully copied.
 
+## 📸 Screenshot
+
+![Random Password Generator Screenshot](screenshot.png)
+
+
 ## Getting Started
 
 ### Dependencies
