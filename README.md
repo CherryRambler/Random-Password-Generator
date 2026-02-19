@@ -11,7 +11,8 @@ The Random Password Generator is a lightweight JavaScript application designed t
 ![Random Password Generator Screenshot](Screenshot.png)
 
 ## Live Preview
-![ https://cherryrambler.github.io/Random-Password-Generator/](live-Preview)
+[Live Preview](https://cherryrambler.github.io/Random-Password-Generator/)
+
 
 ## Getting Started
 
